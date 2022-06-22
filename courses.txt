@@ -1,4 +1,10 @@
 welcome to Computer science engineering
-The courses available are JAVA:
+The courses available are:
+JAVA
 SE
 DSP
+OS
+.
+.
+Thankyou
+with Regards
